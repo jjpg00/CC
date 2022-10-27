@@ -1,6 +1,6 @@
-#FootballerStats
-![Git config](../../imagenes/footballerstats.png)
-####FootballerStats se encargará de proporcionar información sobre los mejores jugadores del mundo.
+![Footballerstats](./imagenes/footballerstats.png)
+
+**FootballerStats se encargará de proporcionar información sobre los mejores jugadores del mundo.**
 
 Esta aplicación estará dirigida tanto a los aficionados de fútbol como profesionales que quieran ver una comparación de sus jugadores para determinar cuál es mejor en su valoración total, comprobar qué jugador es más rápido, comprobar que jugador es mejor en una determinada posición... y pueda aplicarse tanto a videojuegos para simular los futbolistas como a la hora de establecer la mejor alineación para entrenadores reales.
 
