@@ -1,6 +1,6 @@
 # Footballer Stats
 
-![Footballerstats](../../imagenes/footballerstats.png)
+![Footballerstats](./imagenes/footballerstats.png)
 
 ## Introducción
 FootballerStats es una aplicación pensada para cloud computing para la obtención de datos de futbolistas y su almacenamiento usando servidores en la nube, donde se procesarán en otros equipo aparte para trabajar con los datos y determinar valoraciones a partir de los datos.
