@@ -1,4 +1,4 @@
-![Footballerstats](./imagenes/footballerstats.png)
+![Footballerstats](../../imagenes/footballerstats.png)
 
 **FootballerStats se encargará de proporcionar información sobre los mejores jugadores del mundo.**
 
