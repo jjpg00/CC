@@ -4,7 +4,7 @@ En este documento se detallaran los distintos hitos que usarán nuestro sistema,
 ### Hitos
 ---
 
-1. [Hito 02] (https://github.com/jjpg00/FootballerStats/milestone/2) Diseño e implementación de clases del sistema : En este hito crearemos las clases más importantes para nuestra lógica de negocio como puede ser la clase jugador, usuario y equipo.
+1. [Hito 01] (https://github.com/jjpg00/FootballerStats/milestone/2) Diseño e implementación de clases del sistema : En este hito crearemos las clases más importantes para nuestra lógica de negocio como puede ser la clase jugador, usuario y equipo.
 
 2. [Hito 02] (https://github.com/jjpg00/FootballerStats/milestone/5) Implementación lógica de negocio futbolistas : En este hito implementaremos la lógica y servicios necesarios para hacer las distintas búsquedas de los futbolistas. Así como calcular la valoración y precio de los futbolistas según sus atributos o características.
 
