@@ -16,4 +16,4 @@ La documentación sobre este hito la encontramos en este [directorio](./docs/hit
 
 1. [Historias de usuario](./docs/hito1/H1_historiasUsuario.md) Aqui encontraremos los usuarios que usarán nuestro sistema, así como las 8 historias de usuario que se han definido para el proyecto.
 2. [Hitos](./docs/hito1/H1_hitos.md) Aquí encontramos los 6 hitos (milestones) que se han definido para el desarrollo del proyecto.
-3. [Hitos](./src/main/java/jjpg0006/footbalerlstats/) Aquí encontraremos las clases .java que compondrán el proyecto provisionalmente.
+3. [Clases java](./src/main/java/jjpg0006/footbalerlstats/) Aquí encontraremos las clases .java que compondrán el proyecto provisionalmente.
