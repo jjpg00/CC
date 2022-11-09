@@ -12,10 +12,6 @@ En este documento se detallaran los distintos hitos que usarán nuestro sistema,
 
 4. [Hito 04] (https://github.com/jjpg00/FootballerStats/milestone/6) Implementación lógica de negocio clubes : En este hito implementaremos la lógica y servicios necesarios para hacer búsquedas por clubes. Así como calcular la valoración y precio de los los clubes según los atributos o características de los futbolistas que los componen.
 
-5. [Hito 05] (https://github.com/jjpg00/FootballerStats/milestone/4) Creación de un contenedor para pruebas : Tras elegir y comparar contenedores, se creará un contenedor para hacer tests unitarios, asilar la ejecución de la aplicación...
+5. [Hito 05] (https://github.com/jjpg00/FootballerStats/milestone/4) Creación de una API : Se va a desarrollar una API que permita la mejor visualización de la información que se obtiene en los dos hitos previos, permitiendo así su gestión de forma distribuida.
 
-6. [Hito 06] (https://github.com/jjpg00/FootballerStats/milestone/7) Integración continua : En este hito conseguiremos describir la versión del lenguaje de programación que se usa en el proyecto y la infraestructura que necesita para funcionar, así como la elección de un sistema y sitio para integración continua y configuración del mismo.
-
-7. [Hito 07] (https://github.com/jjpg00/FootballerStats/milestone/8) Diseño y tests de microservicios : En este hito desarrollaremos los microservicios y sus tets asociados.
-
-8. [Hito 08] (https://github.com/jjpg00/FootballerStats/milestone/9) Despliegue : Se realizará un despliegue de nuestro software en un servidor en la nube de forma que sea fácilmente accesible.
+8. [Hito 08] (https://github.com/jjpg00/FootballerStats/milestone/9) Despliegue : Se realizará un despliegue de nuestro software en un servidor en la nube de forma que sea fácilmente accesible de forma flexible y únicamente necesitando acceso a interent.
