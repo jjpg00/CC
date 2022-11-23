@@ -23,3 +23,5 @@ La documentación sobre este hito la encontramos en este [directorio](./docs/hit
 
 1. [Documentación](./docs/hito2/documentacion_hito2.md) Aquí encontraremos la documentación del hito correspondiente..
 2. [Tests java](./src/test/java/jjpg0006/footbalerlstats/) Aquí encontraremos las clases .java que compondrán el proyecto provisionalmente.
+
+Se ha añadido el archivo Makefile
