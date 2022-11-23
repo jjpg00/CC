@@ -13,4 +13,15 @@ public class Usuario {
     String ID;
     String Nombre;
     String Contrasena;
+
+    public Usuario(String ID, String Nombre, String Contrasena) {
+        this.ID = ID;
+        this.Nombre = Nombre;
+        this.Contrasena = Contrasena;
+    }
+    
+    
+     public boolean passwordValida(String password) {
+          return Contrasena.equals(password);
+     }
 }

@@ -16,4 +16,13 @@ public class Club {
     String Liga;
     int valoracion;
     double precio;
+    
+ public Club(String id, String name,String country,String league, int rating, double price) {
+        this.ID = id;
+        this.Nombre = name;
+        this.Pais = country;
+        this.Liga = league;
+        this.valoracion = rating;
+        this.precio = price;
+    }
 }
