@@ -16,7 +16,7 @@ JUnit es un paquete Java para automatizar las pruebas de clases Java. Se ha eleg
 Para el uso de sus bibliotecas, debemos importarla en nuestro código según lo necesitemos, las usadas para este proyecto serán: 
 `import org.junit.After;import org.junit.AfterClass; import org.junit.Before; import org.junit.BeforeClass; import org.junit.Test;import static org.junit.Assert.*;`
 
-También se usarán validadores de la librería javax a través de :
+También se usarán validadores de la librería javax a través de debido a que las ofrece el framework usado y tiene una sintaxis muy sencilla:
 `import javax.validation.ConstraintViolation; import javax.validation.Validation; import javax.validation.Validator;`
 
 
@@ -38,3 +38,5 @@ un estadístico de los tests que han fallado y acertado, origen del problema o f
 3. En FutbolistaTest.java se ha creado un test llamado crearClubTest para comprobar que los futbolistas se han creado correctamente.
 
 4. En FootballerStatsTest.java se ha creado un test que amplía gran funcionalidad de lás posibles búsquedas de jugadores. Se ha implementado búsqueda por precio, valoración y posición en el campo.
+
+Se ha completado el primer milestone de creación de clases y se ha hecho gran parte del segundo, que es la implmentación de la lógica de negocio de los futbolistas.
